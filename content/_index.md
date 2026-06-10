@@ -1,15 +1,15 @@
 ---
 title: "Lauryn E. Williams"
 subtitle: "Astrophysicist"
-description: "Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic, we wanted to create a polished Hugo theme with the right features for a true personal website. We set out to create a theme that is a pleasure to learn, and one that helps others get to know you better. It is more than a blog, with flexible custom layouts that help you introduce yourself online."
+description: "Hi! I'm a Ph.D. candidate and NSF Fellow in the department of astronomy at the University of Washington. My work focuses on the formation and evolution of Thorne-Żytkow Objects (a theoretical class of stars with a neutron star as its core). I simulate a variety of dynamical interactions between neutron stars and massive main sequence stars to help us further understand how these objects form."
 images:
-  - img/revoir.jpg
+  - img/headshot.JPG
 image_left: true
 text_align_left: false
 show_social_links: true # specify social accounts in site config
 show_action_link: true
 action_link: /about
-action_label: "Read More &rarr;"
+action_label: "About Me &rarr;"
 action_type: text # text, button
 type: home
 ---
