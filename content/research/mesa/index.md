@@ -1,6 +1,6 @@
 ---
-title: Binary Population Synthesis
-subtitle: BPASS, COSMIC, POSYDON
+title: Stellar Modeling 
+subtitle: MESA
 excerpt: Studying the formation scenarios on how TŻOs form.
 date: 
 author: ""

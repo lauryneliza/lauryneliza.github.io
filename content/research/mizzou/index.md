@@ -1,6 +1,6 @@
 ---
-title: Binary Population Synthesis
-subtitle: BPASS, COSMIC, POSYDON
+title: Galaxy Morphology
+subtitle: COSMOS
 excerpt: Studying the formation scenarios on how TŻOs form.
 date: 
 author: ""
