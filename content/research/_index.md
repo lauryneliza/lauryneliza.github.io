@@ -1,6 +1,6 @@
 ---
 title: Research
-description: I have a broad range of research interests, and currently I focus on the formation and evolution of Thorne-Żytkow Objects (TŻOs).
+description: Link to my [CV](/files/CV.pdf)
 author: ""
 show_post_thumbnail: true
 show_author_byline: true

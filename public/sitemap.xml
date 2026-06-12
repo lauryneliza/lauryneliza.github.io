@@ -21,10 +21,6 @@
   </url><url>
     <loc>http://localhost:1313/research/hydro/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/package/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/r/</loc>
-  </url><url>
     <loc>http://localhost:1313/research/</loc>
   </url><url>
     <loc>http://localhost:1313/research/boulder/</loc>
@@ -34,7 +30,5 @@
     <loc>http://localhost:1313/research/mesa/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/theme-features/</loc>
   </url>
 </urlset>

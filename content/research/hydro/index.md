@@ -4,6 +4,7 @@ subtitle: ChaNGa, MANGA
 excerpt: Studying the formation scenarios on how TŻOs form.
 date: 
 author: ""
+draft: true
 # draft: true
 # tags:
 #   - hugo-site
@@ -20,9 +21,6 @@ author: ""
 #   url: https://github.com/apreshill/bakeoff
 ---
 
-![Formspree Logo](formspree-logo.png)
-
-## [Formspree](https://formspree.io) makes it easy to receive submissions from HTML forms on your static website.
 
 ---
 
@@ -59,3 +57,5 @@ layout: split-right
 Both layouts display the page title and description opposite the form, and you
 can also choose to show your social icon links if you have those configured in
 the `config.toml` file.
+
+Link to my [CV](/files/CV.pdf)
