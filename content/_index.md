@@ -1,7 +1,7 @@
 ---
 title: "Lauryn E. Williams"
 subtitle: "Astrophysicist"
-description: "Hi! I'm a Ph.D. candidate and NSF Fellow in the department of astronomy at the University of Washington. My work focuses on the formation and evolution of Thorne-Żytkow Objects (a theoretical class of stars with a neutron star at their core). I use a variety of different codes and techniques to further study these exotic objects."
+description: "Hi! I'm a Ph.D. candidate and NSF Fellow in the department of astronomy at the University of Washington. My work focuses on the formation and evolution of Thorne-Żytkow Objects (a theoretical class of stars with a neutron star at their core). I use a variety of different codes and techniques to study these exotic objects."
 images:
   - img/headshot.JPG
 image_left: true
