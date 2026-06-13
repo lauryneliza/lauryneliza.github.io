@@ -6,9 +6,11 @@ use_featured: false # if false, use most recent by date
 number_categories: 0 # set to zero to exclude
 show_intro: true
 intro: |
-  I recieved my bachelors in both physics and mathematics at the University of Missouri - Columbia. From there I went on to the University of Washington where I am currently in the final year of my PhD. I am usually doing something nerdy and hanging out with my cats and partner in Seattle. 
+  I received my Bachelor of Science in both Physics and Mathematics at the University of Missouri - Columbia. I've continued on to the Department of Astronomy at the University of Washington - Seattle for my Ph.D., where I am currently in my final year.
   
-  Outreach is integrated into my career. I've served as the director of the UW Planetarium, managing and creating shows for over 2,000 attendees. I also deeply enjoy mentoring and creating effective educational outreach. 
+  Outside of research, I dedicate my time to educational outreach and mentoring. I've purposefully integrated outreach into my career and will continue to do so to try to make astronomy and physics as accessible as possible. As of recently, I've served as the director of the [UW Planetarium](https://astro.washington.edu/uw-planetarium), where we provide free, interactive, volunteer-led shows for the entire Seattle area. 
+
+  Other than work, I am usually doing something nerdy and hanging out with my two cats, Sage and Butter, and partner in Seattle. 
 show_outro: false
 outro: |
   <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!

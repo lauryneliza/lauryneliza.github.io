@@ -1,0 +1,15 @@
+{{/* Image shortcode: responsive + optional caption */}}
+
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" | default "" }}
+{{ $caption := .Get "caption" }}
+
+<figure class="my-4 tc">
+  <img src="{{ $src | relURL }}" alt="{{ $alt }}" class="w-100 w-80-ns br3 shadow-1">
+  
+  {{ if $caption }}
+    <figcaption class="f6 gray mt2">
+      {{ $caption }}
+    </figcaption>
+  {{ end }}
+</figure>

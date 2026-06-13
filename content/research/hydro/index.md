@@ -35,3 +35,12 @@ need alt text here
 
 This is a simulation showing the NS (denoted by the x marker) colliding with the 7 solar mass main sequence star. (The core is denoted by the pentagon.) The TŻO fully merges at around [TIME THEY MERGE] and settles into a dynamical TŻO in hydrostatic equilibrium.
 
+### Radial Profiles
+
+
+<!-- ![alt text](/img/changa/sep_dens_time_final.pdf) -->
+
+{{< img src="/img/changa/sep_dens_time_final.pdf" alt="description" >}}
+
+Plot from Williams et al. (2025), looking at the central density and separation betweeen the core and the NS over time.
+
