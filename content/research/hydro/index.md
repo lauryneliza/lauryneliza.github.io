@@ -24,38 +24,14 @@ draft: true
 
 ---
 
-### Functional Form
+## Simulating TŻO Formation 
 
-This theme has a **form-to-email** feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form
-(`/content/forms/contact.md`). Of course, the example shown below (`your@email.here`) must not be used. Please use your actual email address.
+A TŻO can be formed when a newly formed neutron star (NS) gets "kicked" into its companion star, which we call the "impact scenario". 
 
-```toml
-# please replace with a valid Formspree form id or email address
-formspree_form_id: your@email.here
-```
+Using a moving mesh solver (MANGA) ontop of the smooth particle hydrodynamics (SPH) code, Charm N-body GrAvity solver (ChaNGa), I simulated 5 main sequences masses spanning 5 - 15 solar masses, with three different impact parameters.
 
-Update that file and you're ready to begin receiving submissions. Just submit
-the active form for the first time, and complete the email address verification
-step with Formspree, and your contact form is live. The next time someone
-fills it out, the submission will land in your inbox.
+{{< video src="/videos/7_1_43_hr.mp4">}}
+need alt text here
 
-### Multiple Layouts
+This is a simulation showing the NS (denoted by the x marker) colliding with the 7 solar mass main sequence star. (The core is denoted by the pentagon.) The TŻO fully merges at around [TIME THEY MERGE] and settles into a dynamical TŻO in hydrostatic equilibrium.
 
-The files included with the theme have a contact page ready for copy/paste, or
-you can type `hugo new forms/contact.md` and you're off to the races. There are two
-layouts for `forms` – `split-right`, and `split-left` – you guessed it, one puts
-the form on the right and the other on the left. You just fill out the front
-matter, and the rest is automatic.
-
-```toml
-# layout options: split-right or split-left
-layout: split-right
-```
-
-![Contact Form Split Right Layout Screenshot](built-in-contact-form-screenshot.png)
-
-Both layouts display the page title and description opposite the form, and you
-can also choose to show your social icon links if you have those configured in
-the `config.toml` file.
-
-Link to my [CV](/files/CV.pdf)
