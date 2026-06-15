@@ -7,8 +7,7 @@ number_categories: 0 # set to zero to exclude
 show_intro: true
 show_header: false
 intro: |
-
-  {{< img src="/img/LEW_fork.jpeg" alt="Image of Lauryn smiling holding a fork" >}}
+  {{< img src="/img/LEW_fork.jpeg" alt="Image of Lauryn smiling holding a fork" width="w-60" >}}
 
   I received my Bachelor of Science in both Physics and Mathematics at the University of Missouri - Columbia. I've continued on to the Department of Astronomy at the University of Washington - Seattle for my Ph.D., where I am currently in my final year.
   
