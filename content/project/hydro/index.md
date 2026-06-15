@@ -10,11 +10,11 @@ draft: true
 #   - hugo-site
 # categories:
 # layout: single
-# links:
-# - icon: door-open
-#   icon_pack: fas
-#   name: website
-#   url: https://bakeoff.netlify.com/
+links:
+ - icon: book
+   icon_pack: fas
+   name: Paper
+   url: https://iopscience.iop.org/article/10.3847/1538-4357/ae100d
 # - icon: github
 #   icon_pack: fab
 #   name: code

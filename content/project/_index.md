@@ -21,10 +21,10 @@ layout: list-grid # list, list-sidebar, list-grid
 #   show_sidebar_adunit: false # show ad container
 
 # set up common front matter for all individual pages inside project/
-type: projects
+type: project
 cascade:
   type: project
-  show_author_byline: true
+  show_author_byline: false
   show_post_date: false
   show_comments: false # see site config to choose Disqus or Utterances
   # # for single-sidebar layout only

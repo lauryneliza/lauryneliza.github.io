@@ -1,61 +1,38 @@
 ---
-title: Stellar Companion Astrometry Brown Dwarfs
-subtitle: REU research at AMNH
-excerpt: Brown Dwarfs, HIPPARCOS, GAIA
+title: Stellar Companion Astrometry
+subtitle: 2021 Summer AMNH REU
+excerpt: Identifying Dynamical Masses of Long Period Companions using Orbit Fitting Code with HGCA Astrometry
 date: 
 author: 
 draft: true
-tags:
-  - hugo-site
-categories:
+# tags:
+#   - hugo-site
+# categories:
 # layout: single
-# links:
-# - icon: door-open
-#   icon_pack: fas
-#   name: website
-#   url: https://bakeoff.netlify.com/
+links:
+ - icon: book
+   icon_pack: fas
+   name: Paper
+   url: https://iopscience.iop.org/article/10.3847/2041-8213/ac382c
 # - icon: github
 #   icon_pack: fab
 #   name: code
 #   url: https://github.com/apreshill/bakeoff
 ---
 
-![Formspree Logo](formspree-logo.png)
+## Background
+The Hipparcos-Gaia Catalog of Accelerations contains a subset of stars that appeared to be accelerating during a cross calibration between the High Precision PARallax Collecting Satellite (HIPPARCOS) catalog and gaia. (SOURCE)
 
-## [Formspree](https://formspree.io) makes it easy to receive submissions from HTML forms on your static website.
+A proposed cause of these accelerations is the presence of a previously unknown stellar companion. We aimed to constrain the masses of these companions using sophisticated orbit fitting codes. 
 
----
+## ORVARA
 
-### Functional Form
+Orbits from Radial Velocity, Absolute and/or Relative Astrometry (ORVARA)(SOURCE) measures precise masses and other orbital parameters from the HGCA catalog. We focused on companions within 10 - 100 Jupiter masses within 20 parsecs.
 
-This theme has a **form-to-email** feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form
-(`/content/forms/contact.md`). Of course, the example shown below (`your@email.here`) must not be used. Please use your actual email address.
+## Results
 
-```toml
-# please replace with a valid Formspree form id or email address
-formspree_form_id: your@email.here
-```
+Succesfully constrained masses:
 
-Update that file and you're ready to begin receiving submissions. Just submit
-the active form for the first time, and complete the email address verification
-step with Formspree, and your contact form is live. The next time someone
-fills it out, the submission will land in your inbox.
+{{< img src="/img/reu/15Sge_2.png" alt="description" >}}
 
-### Multiple Layouts
 
-The files included with the theme have a contact page ready for copy/paste, or
-you can type `hugo new forms/contact.md` and you're off to the races. There are two
-layouts for `forms` – `split-right`, and `split-left` – you guessed it, one puts
-the form on the right and the other on the left. You just fill out the front
-matter, and the rest is automatic.
-
-```toml
-# layout options: split-right or split-left
-layout: split-right
-```
-
-![Contact Form Split Right Layout Screenshot](built-in-contact-form-screenshot.png)
-
-Both layouts display the page title and description opposite the form, and you
-can also choose to show your social icon links if you have those configured in
-the `config.toml` file.
