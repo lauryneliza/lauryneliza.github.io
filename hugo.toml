@@ -57,7 +57,7 @@ enableEmoji = true
   # add the filename name here, without extension
   # to use hex colors instead of named tachyons colors, include "hex" in filename
   custom_theme = "" 
-  custom_css = ["css/custom.css"]
+  # custom_css = ["css/custom.css"]
   
   # use an embedded font-family
   # serif options: Fraunces / EB Garamond / Bitter
@@ -148,7 +148,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Research"
     title = "Research"
-    url = "/research/"
+    url = "/project/"
     weight = 2
 #  [[menu.header]]
 #    name = "Blog"
