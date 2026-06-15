@@ -17,8 +17,6 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/project/mizzou/</loc>
-  </url><url>
     <loc>http://localhost:1313/categories/graduate-research/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/hugo-site/</loc>
@@ -28,10 +26,6 @@
     <loc>http://localhost:1313/project/</loc>
   </url><url>
     <loc>http://localhost:1313/series/</loc>
-  </url><url>
-    <loc>http://localhost:1313/project/boulder/</loc>
-  </url><url>
-    <loc>http://localhost:1313/project/amnh/</loc>
   </url><url>
     <loc>http://localhost:1313/project/mesa/</loc>
   </url><url>
