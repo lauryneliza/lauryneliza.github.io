@@ -6,8 +6,9 @@ date:
 author: 
 draft: true
 # tags:
-#   - hugo-site
-# categories:
+# - undergrad-REU
+categories:
+ - Undergraduate Research
 # layout: single
 links:
  - icon: book
@@ -31,8 +32,7 @@ Orbits from Radial Velocity, Absolute and/or Relative Astrometry (ORVARA)(SOURCE
 
 ## Results
 
-Succesfully constrained masses:
 
-{{< img src="/img/reu/15Sge_2.png" alt="description" >}}
+{{< img src="/img/reu/15Sge_2.png" alt="a plot showing radial velocity in meters per second on the y-axis and a plot showing epoch in years on the xaxis" >}}
 
 

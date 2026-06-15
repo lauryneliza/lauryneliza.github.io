@@ -133,10 +133,11 @@ enableEmoji = true
 #      icon_pack = "fas"
 #      url       = "/blog/index.xml"
 
-#[taxonomies]
-#  category = "categories"
-#  series = "series"
-#  tag = "tags"
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
 
 [menu]
   # Configure header 

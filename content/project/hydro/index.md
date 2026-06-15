@@ -8,7 +8,8 @@ draft: true
 # draft: true
 # tags:
 #   - hugo-site
-# categories:
+categories:
+- Graduate Research
 # layout: single
 links:
  - icon: book

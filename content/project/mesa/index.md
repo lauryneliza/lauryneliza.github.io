@@ -8,16 +8,16 @@ draft: true
 tags:
   - hugo-site
 categories:
-layout: single
-links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
+# layout: single
+# links:
+# - icon: door-open
+#   icon_pack: fas
+#   name: website
+#   url: https://bakeoff.netlify.com/
+# - icon: github
+#   icon_pack: fab
+#   name: code
+#   url: https://github.com/apreshill/bakeoff
 ---
 
 ![Formspree Logo](formspree-logo.png)

@@ -7,5 +7,33 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Graduate Research</title>
+      <link>http://localhost:1313/categories/graduate-research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/graduate-research/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Undergrad-REU</title>
+      <link>http://localhost:1313/categories/undergrad-reu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/undergrad-reu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Undergrad-REUs</title>
+      <link>http://localhost:1313/categories/undergrad-reus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/undergrad-reus/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Undergraduate Research</title>
+      <link>http://localhost:1313/categories/undergraduate-research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/undergraduate-research/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
