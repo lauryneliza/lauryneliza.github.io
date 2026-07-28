@@ -7,7 +7,7 @@ number_categories: 0 # set to zero to exclude
 show_intro: true
 show_header: false
 intro: |
-  {{< img src="/img/LEW_fork.jpeg" alt="Image of Lauryn smiling holding a fork" width="w-60" >}}
+  {{< img src="/img/LEW_fork.jpeg" alt="Image of Lauryn smiling holding a fork" width="w-40" float="left" >}}
 
   I received my Bachelor of Science in both Physics and Mathematics at the University of Missouri - Columbia. I've continued on to the Department of Astronomy at the University of Washington - Seattle for my Ph.D., where I am currently in my final year.
   
@@ -15,7 +15,7 @@ intro: |
 
   Other than work, I am usually doing something nerdy and hanging out with my two cats, Sage and Butter, and partner in Seattle. 
 
-  {{< img src="/img/sage_butter.tiff" alt="Picture of an orange cat and black cat sleeping togther on a bed." >}}
+  {{< img src="/img/sage_butter.tiff" alt="Picture of an orange cat and black cat sleeping togther on a bed." width="w-50"  float="right" >}}
 
 show_outro: false
 outro: |

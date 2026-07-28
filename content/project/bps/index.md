@@ -1,61 +1,38 @@
 ---
 title: Binary Population Synthesis
-subtitle: BPASS, COSMIC, POSYDON
-excerpt: Studying the formation scenarios on how TŻOs form.
+subtitle: BPASS
+excerpt: Calculating TŻO Formation Rates
 date: 
 author: ""
 draft: true
-tags:
-  - hugo-site
+# tags:
+#   - hugo-site
 categories:
-layout: single
-links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
+- Graduate Research
+- In Prep
+# layout: single
+# links:
+# - icon: door-open
+#   icon_pack: fas
+#   name: website
+#   url: https://bakeoff.netlify.com/
+# - icon: github
+#   icon_pack: fab
+#   name: code
+#   url: https://github.com/apreshill/bakeoff
 ---
 
-![Formspree Logo](formspree-logo.png)
+## How often are TŻOs formed?
+Understanding TŻO formation rates can provide important information on the current number of TŻOs within the Milky Way and the Magellanic Clouds. Having that context is crucial if we want to continue to search for more candidates. Accurate TŻO formation rates can also hint to the longevity of these objects.
 
-## [Formspree](https://formspree.io) makes it easy to receive submissions from HTML forms on your static website.
+## BPASS / TUI
+Using criteria taken from our [hydrodynamical simulations](/project/hydro), we utilized BPASS and its auxiliary gravitational wave (GW) code, TUI, to calculate the formation rate of TŻOs within the Milky Way and Magellanic Clouds. Those rates were compared across 4 different natal kick velocity distributions and 2 different remnant prescriptions. 
 
----
+**This work is in prep and is expected to be submitted soon.**
 
-### Functional Form
 
-This theme has a **form-to-email** feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form
-(`/content/forms/contact.md`). Of course, the example shown below (`your@email.here`) must not be used. Please use your actual email address.
+<!-- 
+{{< img src="/img/bps/ECDF_iqr.png" alt="An ECDF curve showing the proportion of TŻO progenitor systems under periastron radius less than 1 stellar radius." link="/img/bps/ECDF_iqr.png" >}}
 
-```toml
-# please replace with a valid Formspree form id or email address
-formspree_form_id: your@email.here
-```
+*An ECDF curve showing the proportion of TŻO progenitor systems under periastron radius less than 1 stellar radius (Williams et al. (In Prep)).* -->
 
-Update that file and you're ready to begin receiving submissions. Just submit
-the active form for the first time, and complete the email address verification
-step with Formspree, and your contact form is live. The next time someone
-fills it out, the submission will land in your inbox.
-
-### Multiple Layouts
-
-The files included with the theme have a contact page ready for copy/paste, or
-you can type `hugo new forms/contact.md` and you're off to the races. There are two
-layouts for `forms` – `split-right`, and `split-left` – you guessed it, one puts
-the form on the right and the other on the left. You just fill out the front
-matter, and the rest is automatic.
-
-```toml
-# layout options: split-right or split-left
-layout: split-right
-```
-
-![Contact Form Split Right Layout Screenshot](built-in-contact-form-screenshot.png)
-
-Both layouts display the page title and description opposite the form, and you
-can also choose to show your social icon links if you have those configured in
-the `config.toml` file.

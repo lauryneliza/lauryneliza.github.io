@@ -3,9 +3,17 @@
 {{ $alt := .Get "alt" | default "" }}
 {{ $caption := .Get "caption" }}
 {{ $width := .Get "width" | default "w-80" }}
-<figure class="my-4 tc">
- <img src="{{ $src | relURL }}" alt="{{ $alt }}" class="{{ $width }} br3 shadow-1">
+{{ $link := .Get "link" }}
+{{ $float := .Get "float" }}
+<figure class="my-4" style="{{ if eq $float "right" }}float: right; margin-left: 1.5rem;{{ else if eq $float "left" }}float: left; margin-right: 1.5rem;{{ else }}text-align: center;{{ end }} {{ if $width }}width: {{ if eq $width "w-30" }}30%{{ else if eq $width "w-40" }}40%{{ else if eq $width "w-50" }}50%{{ else }}auto{{ end }};{{ end }}">
+  {{ if $link }}
+  <a href="{{ $link | relURL }}" target="_blank">
+  {{ end }}
+  <img src="{{ $src | relURL }}" alt="{{ $alt }}" style="width: 100%; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.2);">
+  {{ if $link }}
+  </a>
+  {{ end }}
   {{ if $caption }}
-    <figcaption class="f6 gray mt2">{{ $caption }}</figcaption>
+  <figcaption style="font-size: 0.75rem; color: gray; margin-top: 0.5rem;">{{ $caption }}</figcaption>
   {{ end }}
 </figure>

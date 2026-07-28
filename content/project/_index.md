@@ -1,9 +1,9 @@
 ---
 title: Research
-description: Link to my [CV](/files/CV.pdf)
+description: My main interests surround compact objects at the center of large, diffuse envelopes (i.e., TŻOs, Quasi stars). My research experience is described below ([CV](/files/CV.pdf))
 author: ""
 show_post_thumbnail: true
-show_author_byline: true
+show_author_byline: false
 show_post_date: false
 show_button_links: true
 # for listing page layout
@@ -25,7 +25,7 @@ type: project
 cascade:
   type: project
   show_author_byline: false
-  show_post_date: false
+  show_post_date: true
   show_comments: false # see site config to choose Disqus or Utterances
   # # for single-sidebar layout only
   # sidebar:

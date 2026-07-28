@@ -151,16 +151,16 @@ enableEmoji = true
     title = "Research"
     url = "/project/"
     weight = 2
-#  [[menu.header]]
-#    name = "Blog"
-#    title = "Blog"
-#    url = "/blog/"
-#    weight = 3
+  [[menu.header]]
+    name = "Blog"
+    title = "Blog"
+    url = "/blog/"
+    weight = 3
   [[menu.header]]
     name = "Contact"
     title = "Contact Me"
     url = "/contact/"
-    weight = 3
+    weight = 4
 #  [[menu.header]]
 #    name = "A collection"
 #    title = "A collection"

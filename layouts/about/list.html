@@ -26,7 +26,7 @@
         {{ $sidebar_pg := site.GetPage $sidebar }}
         {{ $main := printf "/%s/%s" .Section "main/index.md" }}
         {{ with site.GetPage $main }}
-<div class="order-2 {{ if $page.Params.sidebar_left }}ml5-l order-2-l{{ else }}mr4-l order-1-l{{ end }} {{ if $page.Params.sidebar_left }}w-two-thirds-l{{ else }}w-100{{ end }} w-100-ns pt5">
+<div class="order-2 {{ if $page.Params.sidebar_left }}ml5-l order-2-l{{ else }}mr4-l order-1-l{{ end }} {{ if $page.Params.sidebar_left }}w-two-thirds-l{{ else }}w-100{{ end }} w-100-ns pt2">
           {{ if $page.Params.show_header }}
             {{ with .Title}}
               <h2 class="about-main f2 fw7 tl">{{ . | markdownify }}</h2>
@@ -37,7 +37,7 @@
             {{ end }}
           {{ end }}
           {{ if .Params.show_intro }}
-            <div class="pv3 f4 lh-copy dib">{{ .Params.intro | markdownify }}</div>
+            <div class="pv3 f4 lh-copy"  style="overflow: hidden;">{{ .Params.intro | markdownify }}</div>
           {{ end }}
           {{ if gt .Params.number_featured 0 }}
              {{ partial "shared/summary-li" . }}
