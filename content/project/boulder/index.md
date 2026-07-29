@@ -4,7 +4,7 @@ subtitle: 2020 Boulder Solar Alliance REU
 excerpt: Comparisons of Novel Imaging and Spectroscopic Infrared Eclipse Observations in 2017
 date: 2026-07-25
 author: ""
-draft: true
+draft: false
 # tags:
 #   - hugo-site
 categories:
@@ -19,6 +19,7 @@ layout: single
 #   icon_pack: fab
 #   name: code
 #   url: https://github.com/apreshill/bakeoff
+---
 ---
 **My first external research experience (circa Summer 2020)**
 ## Background

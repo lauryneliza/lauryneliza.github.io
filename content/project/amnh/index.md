@@ -4,7 +4,7 @@ subtitle: 2021 Summer AMNH REU
 excerpt: Identifying Dynamical Masses of Long Period Companions using Orbit Fitting Code with HGCA Astrometry
 date: 2026-07-26
 author: 
-draft: true
+draft: false
 # tags:
 # - undergrad-REU
 categories:
@@ -21,7 +21,7 @@ links:
 #   name: code
 #   url: https://github.com/apreshill/bakeoff
 ---
-
+---
 ### Identifying Dynamical Masses of Long Period Companions Using Orbit Fitting code with HGCA Astrometry
 ## Background
 The Hipparcos-Gaia Catalog of Accelerations contains a subset of stars that appeared to be accelerating during a cross calibration between the High Precision PARallax Collecting Satellite (HIPPARCOS) catalog and Gaia. ([Brandt 2021](https://ui.adsabs.harvard.edu/abs/2021ApJS..254...42B/abstract))

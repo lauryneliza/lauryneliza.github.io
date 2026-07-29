@@ -4,7 +4,7 @@ subtitle: Undergraduate Research at the University of Missouri
 excerpt: Multi-Wavelength Identification of Extremely Young Galaxies with CANDELS
 date: 2026-07-24
 author: ""
-draft: true
+draft: false
 # tags:
 #   - undergraduate-research
 categories:
@@ -20,7 +20,7 @@ layout: single
 #   name: code
 #   url: https://github.com/apreshill/bakeoff
 ---
-
+---
 **My first research experience, circa 2019**
 
 ## Background

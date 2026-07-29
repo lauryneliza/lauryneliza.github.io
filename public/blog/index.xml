@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Lauryn E. Williams</title>
-    <link>http://localhost:1313/blog/</link>
+    <link>https://www.laurynewilliams.com/blog/</link>
     <description>Recent content in Blog on Lauryn E. Williams</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.laurynewilliams.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Website!</title>
-      <link>http://localhost:1313/blog/intro/</link>
+      <link>https://www.laurynewilliams.com/blog/intro/</link>
       <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/intro/</guid>
-      <description>&lt;p&gt;I &lt;em&gt;finally&lt;/em&gt; made a website! I&amp;rsquo;ll be on the job market soon, so I&amp;rsquo;m glad to finally be able to present my research and become more visible within the field.&lt;/p&gt;&#xA;&lt;p&gt;All of my &#xA;&lt;a href=&#34;http://localhost:1313/project/&#34;&gt;research&lt;/a&gt; is posted, including all of my first research experiences (summer REUs, undergraduate experiences, etc). The wording is all from posters/papers that I made at the time (since 2019!), so you can clearly see how my &amp;ldquo;scientific prose&amp;rdquo; has developed over the years.&lt;/p&gt;</description>
+      <guid>https://www.laurynewilliams.com/blog/intro/</guid>
+      <description>&lt;p&gt;I &lt;em&gt;finally&lt;/em&gt; made a website! I&amp;rsquo;ll be on the job market soon, so I&amp;rsquo;m glad to finally be able to present my research and become more visible within the field.&lt;/p&gt;&#xA;&lt;p&gt;All of my &#xA;&lt;a href=&#34;https://www.laurynewilliams.com/project/&#34;&gt;research&lt;/a&gt; is posted, including all of my first research experiences (summer REUs, undergraduate experiences, etc). The wording is all from posters/papers that I made at the time (since 2019!), so it&amp;rsquo;s pretty obvious that my &amp;ldquo;scientific prose&amp;rdquo; has developed over the years.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Some UW graduate programs suspend admissions, with funding in flux.</title>
-      <link>http://localhost:1313/blog/seattle_times/</link>
+      <link>https://www.laurynewilliams.com/blog/seattle_times/</link>
       <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/seattle_times/</guid>
-      <description>&lt;!-- &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure class=&#34;my-4&#34; style=&#34;text-align: center; width: auto;&#34;&gt;&#xA;  &#xA;  &lt;img src=&#34;http://localhost:1313/img/blog/lew_seattle.jpg&#34; alt=&#34;Lauryn looking up in the UW Planetarium&#34; style=&#34;width: 100%; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.2);&#34;&gt;&#xA;  &#xA;  &#xA;&lt;/figure&gt; --&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h4 id=&#34;i-got-the-opportunity-to-discuss-how-everyone-is-impacted-by-funding-uncertainties&#34;&gt;I got the opportunity to discuss how &lt;em&gt;everyone&lt;/em&gt; is impacted by funding uncertainties&#xA;  &lt;a href=&#34;#i-got-the-opportunity-to-discuss-how-everyone-is-impacted-by-funding-uncertainties&#34;&gt;&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;&#xA;&lt;a href=&#34;https://www.seattletimes.com/seattle-news/some-uw-graduate-programs-suspend-admissions-with-funding-in-flux/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt; to the full article&lt;/p&gt;</description>
+      <guid>https://www.laurynewilliams.com/blog/seattle_times/</guid>
+      <description>&lt;!-- &#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;figure class=&#34;my-4&#34; style=&#34;text-align: center; width: auto;&#34;&gt;&#xA;  &#xA;  &lt;img src=&#34;https://www.laurynewilliams.com/img/blog/lew_seattle.jpg&#34; alt=&#34;Lauryn looking up in the UW Planetarium&#34; style=&#34;width: 100%; border-radius: 4px; box-shadow: 0 2px 4px rgba(0,0,0,0.2);&#34;&gt;&#xA;  &#xA;  &#xA;&lt;/figure&gt; --&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h4 id=&#34;i-got-the-opportunity-to-discuss-how-everyone-is-impacted-by-funding-uncertainties&#34;&gt;I got the opportunity to discuss how &lt;em&gt;everyone&lt;/em&gt; is impacted by funding uncertainties&#xA;  &lt;a href=&#34;#i-got-the-opportunity-to-discuss-how-everyone-is-impacted-by-funding-uncertainties&#34;&gt;&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;&#xA;&lt;a href=&#34;https://www.seattletimes.com/seattle-news/some-uw-graduate-programs-suspend-admissions-with-funding-in-flux/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt; to the full article&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

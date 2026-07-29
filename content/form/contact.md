@@ -2,8 +2,8 @@
 title: Contact
 name: Contact Me
 description: "Please email me at laurynwi[at]uw[dot]edu or use the contact form to get in touch! "
-date: 2019-02-25T13:38:41-06:00
-draft: true
+# date: 2019-02-25T13:38:41-06:00
+draft: false
 url: contact
 type: form
 layout: split-right # split-right or split-left

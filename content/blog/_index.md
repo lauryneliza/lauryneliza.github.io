@@ -20,7 +20,7 @@ sidebar:
   text_link_url: /blog/ 
 #   categories_link: false # uncomment when you have more things to organize
 #   series_link: true
-  tags_link: true
+  # tags_link: true
   show_sidebar_adunit: false # show ad container
 
 # set up common front matter for all pages inside blog/

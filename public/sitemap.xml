@@ -2,70 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/active/</loc>
+    <loc>https://www.laurynewilliams.com/categories/active/</loc>
     <lastmod>2026-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://www.laurynewilliams.com/categories/</loc>
     <lastmod>2026-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/graduate-research/</loc>
+    <loc>https://www.laurynewilliams.com/categories/graduate-research/</loc>
     <lastmod>2026-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://www.laurynewilliams.com/</loc>
     <lastmod>2026-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/</loc>
+    <loc>https://www.laurynewilliams.com/project/</loc>
     <lastmod>2026-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/mesa/</loc>
+    <loc>https://www.laurynewilliams.com/project/mesa/</loc>
     <lastmod>2026-07-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/bps/</loc>
+    <loc>https://www.laurynewilliams.com/project/bps/</loc>
     <lastmod>2026-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://www.laurynewilliams.com/blog/</loc>
     <lastmod>2026-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/in-prep/</loc>
+    <loc>https://www.laurynewilliams.com/categories/in-prep/</loc>
     <lastmod>2026-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/intro/</loc>
+    <loc>https://www.laurynewilliams.com/blog/intro/</loc>
     <lastmod>2026-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/hydro/</loc>
+    <loc>https://www.laurynewilliams.com/project/hydro/</loc>
     <lastmod>2026-07-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/published/</loc>
+    <loc>https://www.laurynewilliams.com/categories/published/</loc>
     <lastmod>2026-07-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/amnh/</loc>
+    <loc>https://www.laurynewilliams.com/project/amnh/</loc>
     <lastmod>2026-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/undergraduate-research/</loc>
+    <loc>https://www.laurynewilliams.com/categories/undergraduate-research/</loc>
     <lastmod>2026-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/boulder/</loc>
+    <loc>https://www.laurynewilliams.com/project/boulder/</loc>
     <lastmod>2026-07-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/project/mizzou/</loc>
+    <loc>https://www.laurynewilliams.com/project/mizzou/</loc>
     <lastmod>2026-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/press/</loc>
+    <loc>https://www.laurynewilliams.com/categories/press/</loc>
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/seattle_times/</loc>
+    <loc>https://www.laurynewilliams.com/blog/seattle_times/</loc>
     <lastmod>2025-12-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
-    <lastmod>2019-02-25T13:38:41-06:00</lastmod>
+    <loc>https://www.laurynewilliams.com/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/form/</loc>
-    <lastmod>2019-02-25T13:38:41-06:00</lastmod>
+    <loc>https://www.laurynewilliams.com/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://www.laurynewilliams.com/form/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://www.laurynewilliams.com/series/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://www.laurynewilliams.com/tags/</loc>
   </url>
 </urlset>

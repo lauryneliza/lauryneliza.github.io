@@ -5,7 +5,7 @@ excerpt: Modeling Main Sequence-Neutron Star Mergers
 show_post_date: false
 date: 2026-07-27
 # author: ""
-draft: true
+draft: false
 categories:
 - Graduate Research
 - Published
