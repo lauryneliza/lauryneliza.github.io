@@ -2,7 +2,7 @@
 title: Binary Population Synthesis
 subtitle: BPASS
 excerpt: Calculating TŻO Formation Rates
-date: 
+date: 2026-07-28
 author: ""
 draft: true
 # tags:

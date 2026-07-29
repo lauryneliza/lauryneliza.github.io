@@ -2,28 +2,20 @@
 title: Hydrodynamical Simulations
 subtitle: ChaNGa, MANGA
 excerpt: Modeling Main Sequence-Neutron Star Mergers
-# date: 
+show_post_date: false
+date: 2026-07-27
 # author: ""
 draft: true
-# draft: true
-# tags:
-#   - hugo-site
 categories:
 - Graduate Research
 - Published
-# layout: single
+layout: single
 links:
  - icon: book
    icon_pack: fas
    name: Paper
    url: https://iopscience.iop.org/article/10.3847/1538-4357/ae100d
-# - icon: github
-#   icon_pack: fab
-#   name: code
-#   url: https://github.com/apreshill/bakeoff
 ---
-
-
 ---
 
 ## Simulating TŻO Formation 

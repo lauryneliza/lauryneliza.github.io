@@ -1,8 +1,6 @@
 ---
 title: Blog
 description: |
-  This is a fully featured blog that supports categories, 
-  tags, series, and pagination.
 author: "Lauryn E. Williams"
 show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only
@@ -17,8 +15,6 @@ sidebar:
   title: Blog
   description: |
     Whether its news, research updates, or just ramblings, you can keep up with me here!
-    
-    
   author: "Lauryn E. Williams"
   text_link_label: View recent posts 
   text_link_url: /blog/ 

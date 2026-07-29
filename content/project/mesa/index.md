@@ -2,7 +2,7 @@
 title: Stellar Engineering 
 subtitle: MESA
 excerpt: Modeling TŻO Interiors
-date: 
+date: 2026-07-29
 author: ""
 draft: true
 categories:

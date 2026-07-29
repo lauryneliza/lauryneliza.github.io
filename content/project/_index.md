@@ -25,7 +25,7 @@ type: project
 cascade:
   type: project
   show_author_byline: false
-  show_post_date: true
+  show_post_date: false
   show_comments: false # see site config to choose Disqus or Utterances
   # # for single-sidebar layout only
   # sidebar:

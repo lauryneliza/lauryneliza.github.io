@@ -2,7 +2,7 @@
 title: Galaxy Morphology
 subtitle: Undergraduate Research at the University of Missouri 
 excerpt: Multi-Wavelength Identification of Extremely Young Galaxies with CANDELS
-date: 
+date: 2026-07-24
 author: ""
 draft: true
 # tags:

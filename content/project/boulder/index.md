@@ -2,7 +2,7 @@
 title: Solar Physics
 subtitle: 2020 Boulder Solar Alliance REU
 excerpt: Comparisons of Novel Imaging and Spectroscopic Infrared Eclipse Observations in 2017
-date: 
+date: 2026-07-25
 author: ""
 draft: true
 # tags:
