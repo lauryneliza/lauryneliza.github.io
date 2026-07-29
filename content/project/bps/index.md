@@ -23,7 +23,7 @@ categories:
 ---
 
 ## How often are TŻOs formed?
-Understanding TŻO formation rates can provide important information on the current number of TŻOs within the Milky Way and the Magellanic Clouds. Having that context is crucial if we want to continue to search for more candidates. Accurate TŻO formation rates can also hint to the longevity of these objects.
+Understanding TŻO formation rates can provide important information on the current number of TŻOs within the Milky Way and the Magellanic Clouds. Having that context is crucial if we want to search for more candidates. Accurate TŻO formation rates can also hint to the longevity of these objects.
 
 ## BPASS / TUI
 Using criteria taken from our [hydrodynamical simulations](/project/hydro), we utilized BPASS and its auxiliary gravitational wave (GW) code, TUI, to calculate the formation rate of TŻOs within the Milky Way and Magellanic Clouds. Those rates were compared across 4 different natal kick velocity distributions and 2 different remnant prescriptions. 
